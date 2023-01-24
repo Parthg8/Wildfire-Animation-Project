@@ -9,7 +9,7 @@ body {
     opacity: 0.7;
 }
 
-.video {
+video {
     border: 3px solid black;
     top: 50%;
     left: 50%;
