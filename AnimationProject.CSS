@@ -10,7 +10,8 @@ body {
 
 p, h1, h2, h4 {
     text-align: center;
-    padding: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 h1, h2 {
